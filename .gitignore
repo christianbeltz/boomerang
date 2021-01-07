@@ -468,6 +468,9 @@ lib/generated_plugin_registrant.dart
 .history
 .ionide
 
+# Ignore 'secure' files in private folder
+_private
+
 ### VisualStudio ###
 
 # User-specific files
